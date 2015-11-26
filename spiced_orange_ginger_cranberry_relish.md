@@ -7,12 +7,14 @@
 #### Ingredients
 * 1 package (12 ounces) fresh cranberries
 * 2 clementines (cuties)
-* 1/4 cup raw unfiltered honey							Note: dark brown sugar was not a success
+* 1/4 cup raw unfiltered honey
+  * Note: dark brown sugar was not a success
 * 1/2 cup water
 * 1/2 teaspoon ground cinnamon
 * 1/2 teaspoon ground allspice
 * 1/4 teaspoon salt
-* 1 teaspoon ginger paste								Note: Ginger paste is far superior to powdered
+* 1 teaspoon ginger paste
+ * Note: Ginger paste is far superior to powdered
 * 1/4 teaspoon ground cloves
 
 #### Directions
