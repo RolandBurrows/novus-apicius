@@ -1,4 +1,4 @@
-# Novus Apicius
+## Novus Apicius
 
 "The New Recipes" - Inspired by the name for [a collection of Roman cookery recipes](https://en.wikipedia.org/wiki/Apicius).
 
@@ -11,7 +11,8 @@
 * To store and track the evolution of mah favorite recipes
 
 #### Relevants Items of Interest
-* [TacoFancy](https://github.com/sinker/tacofancy/tree/master/full_tacos)
-* [Fork the Cookbook](http://forkthecookbook.com/)
+* [TacoFancy](https://github.com/sinker/tacofancy)
 * [Forking Recipes](http://www.forkingrecipes.com/)
+* [Fork the Cookbook](http://forkthecookbook.com/)
 * [Gourmet Recipe Manager](http://thinkle.github.io/gourmet/)
+* [Women Laughing Alone with Salad](http://thehairpin.com/2011/01/women-laughing-alone-with-salad/)
