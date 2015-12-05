@@ -8,20 +8,20 @@
 #### Ingredients
 For the filling:
 * 1 small onion, chopped
-* 1 tblsp butter or coconut oil
-* 1.5 cups leftover turkey, cut into chunks
+* 1 tblsp butter
+* 1.5 cups turkey, cut into chunks
 * 2 cloves garlic, minced
 * 2 carrots, chopped
 * 0.5 cup button mushrooms, sliced
 * 0.5 cup chicken stock 
-* 1 tblsp arrowroot (or cornstarch)
+* 1 tblsp arrowroot
 
 For the topping:
 * 0.66 cup almond flour
 * 1/8 tsp salt
 * 1/4 tsp baking powder
 * 1/2 a beaten egg
-* 2 tblsp water or almond/hemp milk
+* 2 tblsp water
 
 #### Directions
 For the filling: 
@@ -33,9 +33,9 @@ For the filling:
 6. Remove from heat and distribute evenly to 2 ramekins or small bowls.
 
 For the topping:
-1. Preheat the oven to 350 F
+1. Preheat the oven to 350 F.
 2. Mix all dry ingredients together.
 3. Mix the egg and the water in a separate bowl.
 4. Combine the dry and the wet ingredients together.
-5. Spread the dough evenly on the ramekins filled with the turkey mixture.
-6. Bake in the oven for 20-25 minutes until the crust is golden.
+5. Spread the dough evenly on turkey mixture.
+6. Bake in the oven for 20-25 minutes until the crust is lightly golden.
