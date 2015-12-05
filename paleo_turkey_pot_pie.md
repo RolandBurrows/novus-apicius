@@ -1,7 +1,7 @@
 ### Paleo Turkey Pot Pie
 
 **Prep:** Moderate<br>
-**Cook:** 35 min<br>
+**Cook:** 20-25 min<br>
 **Yield:** 1 pie<br>
 **Oven:** 350 F
 
@@ -16,8 +16,11 @@ For the filling:
 * 0.5 cup chicken stock 
 * 1 tblsp arrowroot
 
+Filling optionals:
+* potatoes, or sweet potatoes
+
 For the topping:
-* 0.66 cup almond flour
+* 2/3 cup almond flour
 * 1/8 tsp salt
 * 1/4 tsp baking powder
 * 1/2 a beaten egg
@@ -25,12 +28,11 @@ For the topping:
 
 #### Directions
 For the filling: 
-1. In a large pan with lid, melt the butter and saute the veggies and garlic over medium heat.
-2. Add in the turkey chunks and chicken stock.
-3. Make slurry with the arrowroot powder and a little bit of cold water.
-4. Add the slurry into the stock and turkey mixture.
-5. Lower heat and cook until the stock thickens.
-6. Remove from heat and distribute evenly to 2 ramekins or small bowls.
+1. In a large pan with lid, melt the butter and sauté the veggies and garlic over medium heat.
+2. Add in the turkey chunks and chicken stock. Stir to combine.
+3. While stirring, sprinkle in the arrowroot powder slowly to minimize clumping.
+4. Lower heat and cook until the stock thickens.
+5. Remove from heat and distribute evenly to pie pan (with bottom crust preferred).
 
 For the topping:
 1. Preheat the oven to 350 F.
