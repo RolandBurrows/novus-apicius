@@ -29,6 +29,7 @@ For the topping:
 
 #### Directions
 For the filling:
+
 1. In a large pan with lid, melt the butter and sauté the veggies and garlic over medium heat.
 2. Add in the turkey chunks and chicken stock. Stir to combine.
 3. While stirring, sprinkle in the arrowroot powder slowly to minimize clumping.
@@ -36,6 +37,7 @@ For the filling:
 5. Remove from heat and distribute evenly to pie pan (with bottom crust preferred).
 
 For the topping:
+
 1. Preheat the oven to 350 F.
 2. Mix all dry ingredients together.
 3. Mix the egg and the water in a separate bowl.
