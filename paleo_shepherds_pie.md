@@ -20,4 +20,8 @@
 * 2 tbsp butter
 
 #### Directions
-1.
+1. Break cauliflower into chunks and steam until tender
+2. Put cauliflower into food processor with 2 tbsp of butter and cream, and process until smooth. Salt and pepper to taste.
+3. Heat oil in skillet on med-low heat. Add onion and saute until soft. Add beef and cook for 5 min, until browned. Add peas, carrots, and green beans. Cook another 5 minuts.
+4. Stir in coconut flour. Add broth and herbs. Reduce heat to low and simmer, stirring occasionally for 5 minutes. Transfer to baking dish and top with cauliflower.
+5. Scatter butter chunks on top and bake for 30-35 min.
