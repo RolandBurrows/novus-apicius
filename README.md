@@ -10,6 +10,11 @@
 #### The Goal
 * To store and track the evolution of mah favorite recipes
 
+#### Recipes to Try
+* [Paella With Tomatoes](http://www.nytimes.com/2007/09/05/dining/051mrex.html)
+* [Morroccan Herb Jam](http://mostlyfoodstuffs.blogspot.com/2009/09/morroccan-herb-jam.html)
+* [Slow Cooker Sweet Potato Chili](http://www.ayearofslowcooking.com/2009/05/sweet-potato-chili-vegan-crockpot.html)
+
 #### Relevants Items of Interest
 * [TacoFancy](https://github.com/sinker/tacofancy)
 * [Forking Recipes](http://www.forkingrecipes.com/)
