@@ -8,6 +8,7 @@
 * 2 ripe bananas
 * 1 egg
 * 1 heaping tbsp of almond butter
+* 1 tsp cinnamon and/or nutmeg
 
 #### Directions
 1. Mash the bananas, add the egg and mix well.
