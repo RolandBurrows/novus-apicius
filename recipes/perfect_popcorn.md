@@ -8,10 +8,12 @@
 #### Ingredients
 * 3 tbsp coconut oil
 * 1/2 cup yellow popcorn kernels
-* 1/2 teaspoon popcorn salt
+* 1/2 tsp fine ground salt
 
 Optional Toppings:
 * 1 package of boxed mac-n-cheese cheese powder
+* Butter
+* Fresh ground black pepper
 
 #### Directions
 1. Place the oil, popcorn, and salt in a large metal mixing bowl. Cover with heavy-duty aluminum foil and poke 10 slits in the top with a knife.
