@@ -14,6 +14,11 @@ Optional Toppings:
 * 1 package of boxed mac-n-cheese cheese powder
 * Butter
 * Fresh ground black pepper
+* Caramel
+* Chocolate drizzle
+
+Toppings that didn't work out:
+* Pure nutmeg, cinnamon, and cloves - no sweetness to help with the spice
 
 #### Directions
 1. Place the oil, popcorn, and salt in a large metal mixing bowl. Cover with heavy-duty aluminum foil and poke 10 slits in the top with a knife.
