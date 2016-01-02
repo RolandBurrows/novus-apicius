@@ -6,4 +6,3 @@
 * 1/4 cup honey
 * 1 1/2 teaspoons kosher salt
 * 1/2 teaspoon garlic powder
-* 1 chipotle chile pepper in adobo sauce
