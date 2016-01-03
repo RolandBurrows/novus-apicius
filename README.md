@@ -10,6 +10,9 @@
 #### The Goal
 * To store and track the evolution of mah favorite recipes
 
+#### Why a code repository?
+* I wasn't satisfied with other online recipe storage offerings, or merely storing docs on some server. But at its heart, git is a version control system. Which means that I get the best of online storage, flexible markdown presentation, and historical tracking.  Win-win-win.
+
 #### Recipes to Try
 * [Paella With Tomatoes](http://www.nytimes.com/2007/09/05/dining/051mrex.html)
 * [Morroccan Herb Jam](http://mostlyfoodstuffs.blogspot.com/2009/09/morroccan-herb-jam.html)
