@@ -6,6 +6,9 @@
 * 1/4 cup honey
 * 1 1/2 teaspoons kosher salt
 * 1/2 teaspoon garlic powder
+* 1/2 teaspoon pepper
+* (Optional) 1/2 cup fresh, chopped cilantro
+* (Optional) 1 teaspoon turmeric
 
 **Grilled Balsamic Worcestershire**
 * 1/4 cup olive oil
