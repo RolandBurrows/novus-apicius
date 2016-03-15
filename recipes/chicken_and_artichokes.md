@@ -6,7 +6,7 @@
 **Oven:** 400 F
 
 #### Main Ingredients
-* 2.5 lbs chicken breasts, cubed
+* 2.5 lbs chicken thighs (or breasts) , cubed
 * 12 oz bacon slices
 * 1 jar of artichoke hearts, quartered
 * 1 cup kalamata olives
