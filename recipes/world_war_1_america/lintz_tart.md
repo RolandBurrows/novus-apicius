@@ -1,4 +1,4 @@
-### Lintz Tart (wheatless pastry)
+### Lintz Tart (wheatless)
 (Recipe courtesy of USA National Archives - https://catalog.archives.gov/id/34929587)
 
 **Prep:** ?<br>
@@ -23,6 +23,6 @@ Filling:
 * 1 grated Lemon
 
 #### Directions
-1. Combine pastry ingredients in a mixing bowl. Mix filling ingredients in a separate bowl, until formed into a paste. 
+1. Combine pastry ingredients in a mixing bowl. Mix filling ingredients in a separate bowl. 
 2. Form pastry-paste in long strips on a baking pan, and fill with filling-paste.
 3. Bake in medium oven.
