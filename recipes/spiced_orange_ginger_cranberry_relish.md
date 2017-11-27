@@ -2,19 +2,20 @@
 
 **Prep:** Simple<br>
 **Cook:** 30 min. + chilling<br>
-**Yield:** 2 cups.<br>
+**Yield:** 2-4 cups.<br>
 
 #### Ingredients
-* 1 package (12 ounces) fresh cranberries
-* 1 cup high-quality orange juice (combines the old recipe components for water + sugar)
-  * dark brown sugar was not a success
+* 24-32 ounces fresh cranberries
+* 1-2 cups high-quality orange juice (combines the old recipe components for water + sugar)
+  * orange juice concentrate works well
   * honey works well for added sweetening
+  * dark brown sugar was not a success
   * add raw sugar if you must
 * 1/2 teaspoon ground cinnamon
-* 1/2 teaspoon ground allspice
-* 1/2 teaspoon ground cloves
+* 1/4 teaspoon ground allspice
+* 1/4 teaspoon ground cloves
 * 1/2 teaspoon salt
-* 1 tablespoon ginger paste
+* 1-2 tablespoons ginger paste
  * ginger paste is far superior to powdered
 
 #### Directions
