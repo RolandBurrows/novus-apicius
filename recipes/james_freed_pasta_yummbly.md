@@ -1,6 +1,6 @@
 ### James Freed's Pasta Salad
 
-**Prep:** Simple<br>
+**Prep:** Easy<br>
 **Cook:** 20 min.<br>
 **Yield:** 6 cups.<br>
 
