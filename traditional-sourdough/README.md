@@ -18,10 +18,12 @@ Chpt 26: The Various Kinds of Leaven <br>
 
 ### Leaven Care Instructions
 
-**Vivian-Family Start Culture**
+**Vivian-Family Starter Culture**
 
 Prep:
-1. Store culture in a glass jar (instead of plastic, which would break down over time and leech into the culture).
+ - Store culture in a glass jar (instead of plastic, which would break down over time and leech into the culture).
+
+Feeding:
 1. Once per week (usually on Bread-Making Day):
    1. Remove culture jar from fridge and mix together in a fresh mixing bowl:
       - 1 part (e.g. 60g) whole wheat flour
