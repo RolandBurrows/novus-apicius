@@ -1,13 +1,13 @@
-### Traditional Sourdough
+## Traditional Sourdough
 
 [Recipe: Roland's Min/Max Sourdough](./rolands-min-max-sourdough/recipe.md)
 
 
-#### History
+### History
 
-Pliny the Elder's _The Natural History_
-Book 18: The Natural History of Grain
-Chpt 26: The Various Kinds of Leaven
+_The Natural History_ - Pliny the Elder <br>
+Book 18: The Natural History of Grain <br>
+Chpt 26: The Various Kinds of Leaven <br>
 
 >It is generally thought that this is the best method of making bread.
 >
@@ -16,9 +16,9 @@ Chpt 26: The Various Kinds of Leaven
 >It is very evident that the principle which causes the dough to rise is of an acid nature, and it is equally evident that those persons who are dieted upon fermented bread are stronger in body.
 
 
-#### Leaven Care Instructions
+### Leaven Care Instructions
 
-**Vivian-Family Start Culture**
+**Vivian-Family Starter Culture**
 
 Prep: store culture in a glass jar (instead of plastic, which would break down over time and leech into the culture).
 
