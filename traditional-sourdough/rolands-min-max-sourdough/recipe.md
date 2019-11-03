@@ -23,8 +23,7 @@ Supplies:
 - water spritzer
 
 Ingredients:
-- 200g bread flour (King Arthur brand)
-- 200g whole wheat flour (King Arthur brand)
+- 400g bread flour (King Arthur brand)
 - 10g himalayan salt (Costco)
 - 400g spring water (Eldorado Springs brand)
 - Sourdough Culture
@@ -32,7 +31,6 @@ Ingredients:
 Fermentation Sequence:
 1. Place mixing bowl on scale and tare to zero.
    - Add bread flour, tare.
-   - Add whole wheat flour, tare.
    - Add salt, tare.
 1. Remove mixing bowl from scale.
 1. Place measuring cup on scale, tare.
