@@ -4,10 +4,23 @@ Note to self: always keep the primary Culture storage jar fed the same, week ove
 
 ### Experiments Summary
 
+[Experiment 003](#experiment-003) - Mini-loaves <br>
 [Experiment 002](#experiment-002) - Bread flour only <br>
 [Experiment 001](#experiment-001) - Tartine style (bread flour + whole wheat flour) <br>
 
 -----
+
+#### Experiment 003
+
+Mini loaves. Modify core recipe, but use:
+   - 600g flour
+   - 472g water
+   - 15g salt
+   - multiple mini loaf pan (8 molds)
+
+Results:
+   - Without lid of dutch oven, top crust dries out too quickly and forms hard shell, preventing rise. Scoring didn't help.
+   - Cuteness of mini loaves isn't worth the overly solid crust.
 
 #### Experiment 002
 
